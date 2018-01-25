@@ -1,5 +1,5 @@
 # Sistemas-Distribuidos
-Projeto em  4 fases de Sistemas Distribuidos em C, feito em grupo com **@João Lobo** e **@João Ferreira**.
+Projeto em  4 fases de Sistemas Distribuidos em C, feito em grupo com @github/jplobo1313 e **@João Ferreira**.
 
 ## 1ª Fase
 Criação das estruturas data.c, entry.c e table.c
